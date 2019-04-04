@@ -2,6 +2,8 @@ Trava dcevm-8
 ==============
 Dcevm-8 built on Travis, driven by AdoptOpenJDK scripts.
 
+[![Build Status](https://travis-ci.org/plotters/trava-jdk-8-dcevm.svg?branch=master)](https://travis-ci.org/plotters/trava-jdk-8-dcevm)
+
 ## Motivation:
 
 Dcevm missed automated builds for a long time! Thanks to iron from Travis and scripts from AdoptOpenJDK we 
